@@ -1,0 +1,14 @@
+question,intent
+hi,greeting
+hello,greeting
+hey there,greeting
+what is your name,bot_identity
+who are you,bot_identity
+how can I buy a product,purchase
+where can I find products,purchase
+what is the status of my order,order_status
+track my order,order_status
+thank you,thanks
+thanks a lot,thanks
+bye,goodbye
+see you later,goodbye
